@@ -1,0 +1,3 @@
+Ravi is a Test Lead at TCS. He works on banking applications.
+TCS is an IT company with offices in Chennai and Mumbai.
+Ravi uses Python and LangChain for Generative AI projects.
